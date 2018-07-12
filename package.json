@@ -1,0 +1,9 @@
+{
+    "name": "com.unity.osc",
+    "description": "Open Sound Control classes and API for the Unity 3d game engine",
+    "version": "1.2",
+    "unity": "2018.1",
+    "displayName": "UnityOSC",
+    "dependencies": {
+    }
+}
